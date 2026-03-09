@@ -2,14 +2,14 @@
 
 💻 Estudante de Desenvolvimento de Sistemas  
 🐍 Aprendendo Python, HTML e CSS  
-🚀 Em busca da primeira oportunidade na área de tecnologia  
+🚀 Estou em busca da primeira oportunidade na área de tecnologia
 
 ---
 
 ## 🚀 Sobre mim
 🎓 Atualmente cursando Técnico em Desenvolvimento de Sistemas  
 📚 Sempre aprendendo novas tecnologias e boas práticas de programação  
-🌐 Interesse em projetos web e desenvolvimento front-end  
+🌐 Interesse em projetos web, desenvolvimento front-end e Java SCript  
 
 ---
 
@@ -29,7 +29,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 ## 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damariscristina&show_icons=true&theme=tokyonight)
-
 ---
 
 ## 📫 Como me encontrar
